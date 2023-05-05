@@ -52,7 +52,8 @@ header {
 .logo{ 
   height: 19px;
   width: 61.9px;
-  margin-left: -60px;
+  margin-left: -50px;
+  margin-top: -8px;
   padding: 30px;
 }
 
