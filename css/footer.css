@@ -45,11 +45,10 @@ footer {
 /****** Small devices (phones, less than 768px) ******/
 @media (max-width: 767.98px) {
   footer {
-    width: 365px;
+    width: 375px;
     display: flex;
     flex-direction: column;
     height: 461px;
-    padding-left: 10px;
     margin-bottom: 0;
     padding-bottom: 0;
   }
@@ -58,6 +57,7 @@ footer {
   .nos-hebergements,
   .assistance {
     width: 330px;
+    padding-left: 30px;
   }
 
   .nos-hebergements,
