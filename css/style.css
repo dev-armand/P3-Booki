@@ -544,7 +544,7 @@ body {
 @media (max-width: 767.98px) {
     /* ... */
     main {
-      width: 365px;
+      width: 375px;
     }
     
    body {
@@ -622,7 +622,7 @@ body {
       margin-left: 20px;
     }
 
-    .info-logements p{
+    .info-logements p {
       width: 300px;
       height: 38px;
     }
