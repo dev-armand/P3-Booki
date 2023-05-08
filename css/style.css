@@ -546,7 +546,7 @@ body {
     html {
     margin-left: -8px;
     }
-    
+
     main {
       width: 375px;
     }
@@ -742,6 +742,7 @@ body {
     .activite-cards .card {
       width: 315px;
       margin-bottom: -50px;
+      margin-left: 4px;
     }
 
     .activite-cards img {
