@@ -651,9 +651,16 @@ body {
     }
 
     .populaires .card {
-      margin: 0;
-      width: 335px;
+      width: 325px;
       height: 146px;
+    }
+
+    .populaires .card img {
+      height: 145px;
+    }
+
+    .populaires .card h3 {
+      width: 160px;
     }
 
     .populaires h2 {
@@ -667,7 +674,6 @@ body {
       flex-direction: column;
       flex-wrap: wrap;
       justify-content: flex-start;
-      margin-left: -15px;
     }
 
     .hebergements {
