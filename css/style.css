@@ -186,11 +186,7 @@ body {
   height: 50px;
 }
 
-.rom-button {
-  width: 170px;
-  height: 50px;
-}
-
+.rom-button,
 .nos-button {
   width: 170px;
   height: 50px;
@@ -198,7 +194,6 @@ body {
 
 .eco-button,
 .fam-button,
-.rom-button,
 .rom-button,
 .nos-button {
   font-weight: 700;
@@ -489,6 +484,10 @@ body {
     
     .hebergements-cards img {
       width: 258px;
+    }
+    
+    .populaires-title {
+      margin-left: 15px;
     }
 
     .populaires {
